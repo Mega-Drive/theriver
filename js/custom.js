@@ -22,8 +22,6 @@ $(document).ready(function()
 {
 	"use strict";
 
-	$(".preloader").fadeOut("slow");
-
 	/* 
 
 	1. Vars and Inits
