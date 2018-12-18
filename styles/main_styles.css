@@ -280,17 +280,6 @@ section
 {
 	height: 100%;
 }
-.preloader
-{
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background: #ffffff;
-	z-index: 102;
-	background: url(../images/loader1.gif) center no-repeat #ffffff;
-}
 
 /*********************************
 3. Header
